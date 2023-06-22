@@ -1,0 +1,6 @@
+User: what is the temperature at which water boils?
+ChatGPT: The boiling point of water is 100 degrees Celsius or 212 degrees Fahrenheit at sea level.
+User: what is it in La Paz
+ChatGPT: The boiling point of water in La Paz, Bolivia, would be lower than at sea level due to the high altitude. La Paz sits at an altitude of around 3,640 meters (11,942 feet), and at that altitude, water boils
+User: what about at the dead sea?
+ChatGPT: ChatGPT: The boiling point of water at the Dead Sea is higher than at sea level due to its extremely high salt content. The Dead Sea has a salinity level of about 34%, which means that the boiling point of water at the
