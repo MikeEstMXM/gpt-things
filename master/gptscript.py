@@ -3,7 +3,7 @@ import os
 import openai
 
 
-API_KEY = "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"
+AI_KEY = open("../key.txt",'r').read().strip(' \n')
 API_ENDPOINT = "https://api.openai.com/v1/chat/gpt4/completions"
 
 
@@ -40,7 +40,7 @@ def generate_chat_response(user_input):
 def emulate_chat_interface():
     chat_number = get_chat_number()
     if os.path.isfile(f"chats/chat{chat_number}.txt"):
-        chat = open(f"chats/chat{chat_number}.txt\n", "r").read().string()
+        chat = G
     else:
         chat = ""
 
