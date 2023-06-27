@@ -3,7 +3,7 @@ import os
 import openai
 
 
-AI_KEY = open("../key.txt",'r').read().strip(' \n')
+API_KEY = open("../key.txt",'r').read().strip(' \n')
 API_ENDPOINT = "https://api.openai.com/v1/chat/gpt4/completions"
 
 
